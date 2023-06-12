@@ -1,0 +1,67 @@
+{
+  "products": [
+    {
+      "id": 2,
+      "name": "Xbox Series X",
+      "description": "La dernière console de jeu de Microsoft avec une puissance de traitement incroyable.",
+      "price": 499,
+      "category": "Gaming"
+    },
+    {
+      "id": 3,
+      "name": "PlayStation 5",
+      "description": "La console de jeu de nouvelle génération de Sony offrant des graphismes époustouflants et des temps de chargement rapides.",
+      "price": 499,
+      "category": "Gaming"
+    },
+    {
+      "id": 4,
+      "name": "MacBook Pro",
+      "description": "Un ordinateur portable puissant avec un superbe écran Retina et une autonomie longue durée.",
+      "price": 1799,
+      "category": "Electronics"
+    },
+    {
+      "id": 5,
+      "name": "Samsung QLED TV",
+      "description": "Une télévision QLED avec des couleurs vives et un contraste impressionnant.",
+      "price": 1299,
+      "category": "Electronics"
+    },
+    {
+      "id": 6,
+      "name": "Fitbit Versa 3",
+      "description": "Une montre connectée élégante avec suivi de la condition physique et des fonctionnalités de suivi du sommeil.",
+      "price": 229,
+      "category": "Wearables"
+    },
+    {
+      "id": 7,
+      "name": "Instant Pot",
+      "description": "Un autocuiseur programmable pour préparer des repas délicieux en peu de temps.",
+      "price": 99,
+      "category": "Kitchen"
+    },
+    {
+      "id": 8,
+      "name": "Nespresso Machine",
+      "description": "Une machine à café automatique pour savourer des expressos et des cappuccinos de qualité professionnelle à la maison.",
+      "price": 199,
+      "category": "Kitchen"
+    },
+    {
+      "id": 9,
+      "name": "Canon EOS R5",
+      "description": "Un appareil photo sans miroir avec une résolution élevée et une vidéo 8K pour les photographes professionnels.",
+      "price": 3899,
+      "category": "Electronics"
+    },
+    {
+      "id": 10,
+      "name": "Dyson V11 Vacuum",
+      "description": "Un aspirateur sans fil puissant avec une excellente performance de nettoyage.",
+      "price": 599,
+      "category": "Home"
+    }
+  ]
+}
